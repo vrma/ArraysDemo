@@ -37,6 +37,31 @@ public class App
     		
     		System.out.println("El tamaño del array es : " + ARRAY_SIZE);
     		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+
+    			
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
     		  		
     	}
     		
